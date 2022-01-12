@@ -1,4 +1,5 @@
-// function countDown(num) {
+// Lines 2-29 were me working through the first question. I wanted to keep my scratch notes and stuff so I could look back on what I got wrong and why it didn't work.
+//	function countDown(num) {
 // 	while (num > 0) {
 // 		setInterval(console.log(num--), 1000);
 // 	}
